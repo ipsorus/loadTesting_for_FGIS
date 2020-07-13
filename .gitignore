@@ -1,6 +1,16 @@
 *.log
 *.pyc
 env
+finecosoft
+gemini
+gemini_2
+gemini_3
+release
+test_100
+test_500
+test_2000
+лишнее
+Логи по тесту 2000
 *.csv
 **/.DS_Store
 .vscode/
