@@ -25,8 +25,8 @@ opts.add_argument("window-size=1300,700")
 # MAIN_PAGE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/'
 # WORK_SPACE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/lk/calibrations/work'
 
-# LOGIN = 'R-Test-002@yandex.ru'
-# PASSWORD = '3Zqov4S1!'
+# LOGIN = 'R-*****x.ru'
+# PASSWORD = '*******'
 # signCipher = 'ЯЯЯ'
 
 
@@ -34,8 +34,8 @@ opts.add_argument("window-size=1300,700")
 MAIN_PAGE_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/'
 WORK_SPACE_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/lk/calibrations/work'
 
-LOGIN = '9067599747'
-PASSWORD = 'v8a2d346'
+LOGIN = '*****'
+PASSWORD = '******'
 signCipher = 'М'
 
 #Установка времени до следующей авторизации (в минутах)
