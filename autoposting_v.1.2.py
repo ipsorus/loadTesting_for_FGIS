@@ -29,8 +29,8 @@ MAIN_PAGE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/'
 WORK_SPACE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/lk/applications?createDatePeriodBegin=2020-07-10&createDatePeriodEnd=2020-07-11&status=CREATED'
 SINGLE_APPLIC_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/lk/applications/'
 
-LOGIN = 'R-Test-002@yandex.ru'
-PASSWORD = '3Zqov4S1!'
+LOGIN = 'R-T****u'
+PASSWORD = '****'
 signCipher = 'ЯЯЯ'
 # #============================
 
@@ -43,8 +43,8 @@ signCipher = 'ЯЯЯ'
 
 # SINGLE_APPLIC_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/lk/applications/'
 
-# LOGIN = '9067599747'
-# PASSWORD = 'v8a2d346'
+# LOGIN = '***'
+# PASSWORD = '****'
 # signCipher = 'М'
 #===========================
 
