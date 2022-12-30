@@ -23,11 +23,11 @@ opts.add_argument("window-size=1300,700")
 
 # #============================
 # #Для стенда разработки
-MAIN_PAGE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/'
+MAIN_PAGE_URL = '***'
 
 #!!!Удалить в конце ссылки всё до слова "CREATED"
-WORK_SPACE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/lk/applications?createDatePeriodBegin=2020-07-10&createDatePeriodEnd=2020-07-11&status=CREATED'
-SINGLE_APPLIC_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/lk/applications/'
+WORK_SPACE_URL = '***'
+SINGLE_APPLIC_URL = '***'
 
 LOGIN = 'R-T****u'
 PASSWORD = '****'
@@ -36,12 +36,12 @@ signCipher = 'ЯЯЯ'
 
 #============================
 # Для опытного стенда
-# MAIN_PAGE_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/'
+# MAIN_PAGE_URL = '***'
 
 # #!!!Удалить в конце ссылки всё до слова "CREATED"
-# WORK_SPACE_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/lk/applications?createDatePeriodBegin=2020-07-08&createDatePeriodEnd=2020-07-09&status=CREATED'
+# WORK_SPACE_URL = '***'
 
-# SINGLE_APPLIC_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/lk/applications/'
+# SINGLE_APPLIC_URL = '***'
 
 # LOGIN = '***'
 # PASSWORD = '****'
