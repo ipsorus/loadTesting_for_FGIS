@@ -22,8 +22,8 @@ opts.add_argument("window-size=1300,700")
 
 
 #Для стенда разработки
-# MAIN_PAGE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/'
-# WORK_SPACE_URL = 'http://vniims.finecosoft.ru:8080/fundmetrology/cm/lk/calibrations/work'
+# MAIN_PAGE_URL = '***'
+# WORK_SPACE_URL = '***'
 
 # LOGIN = 'R-*****x.ru'
 # PASSWORD = '*******'
@@ -31,8 +31,8 @@ opts.add_argument("window-size=1300,700")
 
 
 # Для опытного стенда
-MAIN_PAGE_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/'
-WORK_SPACE_URL = 'https://fgis.gost.ru/fundmetrologytest/cm/lk/calibrations/work'
+MAIN_PAGE_URL = '***'
+WORK_SPACE_URL = '***'
 
 LOGIN = '*****'
 PASSWORD = '******'
