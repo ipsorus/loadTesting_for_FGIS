@@ -9,7 +9,7 @@ NUMBER_OF_XML = 49
 NUMBER_OF_RESULT = 1
 
 path_for_files = os.getcwd()
-path_for_files = os.getcwd() + '/finecosoft/test/' + str(NUMBER_OF_RESULT)
+path_for_files = os.getcwd() + '/***/test/' + str(NUMBER_OF_RESULT)
 os.makedirs(path_for_files)
 
 total_numbers_of_xml = 0 #Общее количество заявок
@@ -52,7 +52,7 @@ for n in range(NUMBER_OF_XML):
     with open (FileFullPath, 'w', encoding='utf-8') as sample:
 
         header_1 = f'<?xml version="1.0" encoding="utf-8" ?>\n'
-        header_2 = f'<gost:application xmlns:gost="urn://fgis-arshin.gost.ru/module-verifications/import/2020-04-14">\n'
+        header_2 = f'***'
         header = header_1 + header_2
         sample.write(header)
 
