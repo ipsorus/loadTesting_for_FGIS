@@ -82,7 +82,7 @@ def applic_constructor(result, part):
     with open (FileFullPath, 'w', encoding='utf-8') as sample:
 
         header_1 = f'<?xml version="1.0" encoding="utf-8" ?>\n'
-        header_2 = f'<gost:application xmlns:gost="urn://fgis-arshin.gost.ru/module-verifications/import/2020-04-14">\n'
+        header_2 = f'***'
         header = header_1 + header_2
         sample.write(header)
 
